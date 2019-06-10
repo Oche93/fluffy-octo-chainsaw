@@ -1,0 +1,18 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>mini app</title>
+</head>
+<body>
+<h1> This is a <b>mini app</b> </h>
+<p> My name is Ameh Emmanuel Oche, a graduate of University of Abuja, am a biginner in html and am trying to learn some few things here <br> i hope u understand with me as i continue this phase <p>
+<p> 
+<button>like</button><button>love</button>
+</p>
+<p>
+<li>
+<ol="good">
+</li>
+</p>
+</body>
+</html>
